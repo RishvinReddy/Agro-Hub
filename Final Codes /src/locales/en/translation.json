@@ -1,0 +1,31 @@
+{
+  "login": "Login",
+  "sign_in_with_google": "Sign in with Google",
+  "enter_phone": "Enter your Phone Number",
+  "send_otp": "Send OTP",
+  "enter_otp": "Enter OTP",
+  "verify_otp": "Verify OTP",
+
+  "sell_crop": "Sell Your Crop",
+  "crop_name": "Crop Name",
+  "variety": "Variety",
+  "quantity": "Quantity",
+  "price": "Price (₹ per unit)",
+  "location": "Location",
+  "description": "Description",
+  "submit_crop": "Submit Crop",
+
+  "community_forum": "Community Forum",
+  "ask_question": "Ask your question here...",
+  "post": "Post",
+  "by": "By",
+
+  "profile": "Profile",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "farmer": "Farmer",
+  "customer": "Customer",
+  "save": "Save",
+  "profile_updated": "Profile updated successfully!"
+}
